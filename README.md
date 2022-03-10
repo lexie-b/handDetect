@@ -2,4 +2,4 @@
 
 
 
-[live site](https://lexie-b.github.io/handDetect/handDetectPractice/handDetect.html)
+[live site](https://lexie-b.github.io/handDetect/handDetectPractice/hand.html)
